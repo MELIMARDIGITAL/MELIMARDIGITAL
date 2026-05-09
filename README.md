@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MELIMARDIGITAL
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning and developing skills for the Front-End World
+- 🌱 I’m currently learning and developing skills for the TI World
 - 📫 How to reach me  melimardigital@gmail.com
 
 <!---
